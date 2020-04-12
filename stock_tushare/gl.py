@@ -2,7 +2,7 @@
 
 class GlobalVar:
     # stock_tushare token for get data
-    token = "cd45e85f67ffbe46872faaaff51afb60fd71479d179dc21a970eb0d6"
+    token = "6e8383ff4a4a297e1fba22cc65a1dc2536701fbb6a48ae79621b1c4d"
     token_init = False
 
 

@@ -1,6 +1,7 @@
 /data/*.db
 /data/*.cvs
 /.idea/
+/stock_tushare/gl.py
 /__pycache__/
 /stock_tushare/log.txt
 *.pyc
