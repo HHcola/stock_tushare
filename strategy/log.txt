@@ -1,0 +1,4 @@
+BaseStock basedir D:\work\tencent\python\stock\stock_tushare  
+BaseStock basedir D:\work\tencent\python\stock\stock_tushare  
+stock can enter 600882.SH name √Óø…¿∂∂‡ 
+BaseStock basedir D:/work/tencent/python/stock/stock_tushare  

@@ -1,0 +1,7 @@
+/data/*.db
+/data/*.cvs
+/.idea/
+/__pycache__/
+/stock_tushare/log.txt
+*.pyc
+.DS_Store
